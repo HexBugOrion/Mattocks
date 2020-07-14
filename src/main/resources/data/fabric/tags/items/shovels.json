@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "mattocks:netherite_mattock",
+    "mattocks:diamond_mattock",
+    "mattocks:iron_mattock",
+    "mattocks:stone_mattock",
+    "mattocks:wooden_mattock",
+    "mattocks:golden_mattock"
+  ]
+}
