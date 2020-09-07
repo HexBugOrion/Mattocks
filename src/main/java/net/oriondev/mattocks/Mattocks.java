@@ -10,7 +10,7 @@ import net.minecraft.util.registry.Registry;
 import net.oriondev.mattocks.mattock.Mattock;
 
 public class Mattocks implements ModInitializer {
-	public static final Mattock NETHERITE_MATTOCK = new Mattock(6, -3, ToolMaterials.NETHERITE, new Item.Settings().group(ItemGroup.TOOLS));
+	public static final Mattock NETHERITE_MATTOCK = new Mattock(5, -3, ToolMaterials.NETHERITE, new Item.Settings().group(ItemGroup.TOOLS));
 	public static final Mattock DIAMOND_MATTOCK = new Mattock(3, -3, ToolMaterials.DIAMOND, new Item.Settings().group(ItemGroup.TOOLS));
 	public static final Mattock IRON_MATTOCK = new Mattock(3, -3, ToolMaterials.IRON, new Item.Settings().group(ItemGroup.TOOLS));
 	public static final Mattock STONE_MATTOCK = new Mattock(3, -3, ToolMaterials.STONE, new Item.Settings().group(ItemGroup.TOOLS));
