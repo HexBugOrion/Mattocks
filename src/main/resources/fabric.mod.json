@@ -6,15 +6,16 @@
   "name": "Mattocks",
   "description": "Adds a new version of the age-old Paxels!",
   "authors": [
-    "HexBugOrion"
+    "HexBugOrion",
+    "iDoomful"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://www.curseforge.com/members/hexbugorion/projects",
+    "sources": "https://github.com/HexBugOrion/Mattocks"
   },
 
   "license": "AllRightsReserved",
-  "icon": "",
+  "icon": "assets/mattocks/icon.png",
 
   "environment": "*",
   "entrypoints": {
@@ -28,7 +29,7 @@
   "depends": {
     "fabricloader": ">=0.7.4",
     "fabric": "*",
-    "minecraft": "1.16.1"
+    "minecraft": "1.16.3"
   },
   "suggests": {
     "flamingo": "*"
