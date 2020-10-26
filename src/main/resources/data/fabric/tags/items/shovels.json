@@ -1,7 +1,6 @@
 {
   "replace": false,
   "values": [
-    "mattocks:enderite_mattock",
     "mattocks:netherite_mattock",
     "mattocks:diamond_mattock",
     "mattocks:iron_mattock",
